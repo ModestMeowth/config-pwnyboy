@@ -1,2 +1,2 @@
-telescreen ansible_connection=local
+pwnyboy ansible_connection=local
 
