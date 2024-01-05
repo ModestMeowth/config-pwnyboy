@@ -1,0 +1,5 @@
+# Ansible
+env/
+galaxy_roles
+galaxy_collections
+.retry

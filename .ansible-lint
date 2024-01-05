@@ -1,0 +1,6 @@
+skip_list:
+  - name[casing]
+  - name[play]
+exclude_paths:
+  - galaxy_roles
+  - galaxy_collections

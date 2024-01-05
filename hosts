@@ -1,2 +1,2 @@
-telescreen
+telescreen ansible_connection=local
 
